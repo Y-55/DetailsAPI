@@ -2,7 +2,7 @@
 API for Details project 
 
 Preparing the enviroment:
-* install pyhton 3 on your computer and add it to the enviroment
+* install pyhton 3 on your computer and add it to the path enviroment
 * open the project using vs code 
 * open the terminal on vs code and right the following to create python enviroment with the required dependences:
   1.  python -m venv env #this will create a python enviroment named env
